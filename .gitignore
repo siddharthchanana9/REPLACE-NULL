@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.obj
+*.exe
+*.cache
+*.pdb
+*.ipch
